@@ -1,7 +1,7 @@
 # Guía: Compatibilidad de Hyper-V, HAXM y Emuladores de Android en Windows
 
 > **Autor:** Jhon Alejandro Diaz J.  
-> **Descripción:** Aspiring Back-end Developer | Systems Technician Student | Passionate about Python · Java · JavaScript | Learning Flask · Spring Boot · Node.js
+> Aspiring Back-end Developer | Systems Technician Student | Passionate about Python · Java · JavaScript | Learning Flask · Spring Boot · Node.js
 
 Este documento explica los principales problemas de compatibilidad entre Hyper-V, HAXM y los emuladores de Android en Windows. Es útil para desarrolladores móviles y full-stack que usan Android Studio, IntelliJ, React Native y herramientas basadas en Node.js.
 
