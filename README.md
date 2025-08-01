@@ -52,6 +52,5 @@ Documenta cómo los sistemas de virtualización en Windows (Hyper-V y HAXM) pued
   - Si priorizas desarrollo móvil: **Desactiva Hyper-V** y usa HAXM.
   - Si necesitas Docker/vms: **Activa Hyper-V** y usa emulador compatible.
 - Para React Native y multiplataforma, considera alternativas como Genymotion si los problemas persisten.
-- Mantén tu guía actualizada según evolucionen las herramientas.
 
 ---
